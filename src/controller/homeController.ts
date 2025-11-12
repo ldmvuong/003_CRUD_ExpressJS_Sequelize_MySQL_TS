@@ -1,4 +1,4 @@
-import db from '../models/index'; //import database
+import db from '../models/index';
 import CRUDService from '../services/CRUDService'; //import service
 import { Request, Response } from "express"; // <-- Thêm type Request, Response
 
